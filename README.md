@@ -1,4 +1,4 @@
-<h3 align="center">All about data! Curious by nature and problem solver. I have a keen interest in data with practical experience in analytics, modelling and engineering.</h3>
+<h3 align="center">Data advocate. Curious by nature and problem solver. I have a keen interest in data with practical experience in analytics, modelling and engineering.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3> 
